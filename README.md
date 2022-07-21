@@ -1,4 +1,4 @@
-# Prova PAA
+# Prova POO
 
 Implementação de codigo da prova da disciplina Programação Orientada a Objetos para saida esperada:
 
